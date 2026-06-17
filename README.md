@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+![header](https://files.catbox.moe/6sijm3.png)
 **Everettnya/Everettnya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
